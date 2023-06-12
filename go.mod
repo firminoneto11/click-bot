@@ -1,12 +1,11 @@
-module main
+module github.com/firminoneto11/click-bot
 
-go 1.19
-
-require github.com/go-vgo/robotgo v0.100.10
+go 1.20
 
 require (
 	github.com/StackExchange/wmi v1.2.1 // indirect
 	github.com/go-ole/go-ole v1.2.6 // indirect
+	github.com/go-vgo/robotgo v0.100.10 // indirect
 	github.com/lxn/win v0.0.0-20210218163916-a377121e959e // indirect
 	github.com/otiai10/gosseract v2.2.1+incompatible // indirect
 	github.com/robotn/gohook v0.31.3 // indirect
